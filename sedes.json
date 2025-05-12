@@ -18,5 +18,10 @@
     "ubicacion": "Primero Terreros",
     "ip": "172.16.4.1",
     "ciudad": "Bogota"
+  },
+  {
+    "ubicacion": "Local Test",
+    "ip": "127.0.0.1",
+    "ciudad": "Local"
   }
 ]
