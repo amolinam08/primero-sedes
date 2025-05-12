@@ -1,0 +1,22 @@
+[
+  {
+    "ubicacion": "Primero Santafé",
+    "ip": "172.16.1.1",
+    "ciudad": "Bogota"
+  },
+  {
+    "ubicacion": "Primero Fiesta Suba",
+    "ip": "172.16.2.1",
+    "ciudad": "Bogota"
+  },
+  {
+    "ubicacion": "Primero Punto 72",
+    "ip": "172.16.3.1",
+    "ciudad": "Bogota"
+  },
+  {
+    "ubicacion": "Primero Terreros",
+    "ip": "172.16.4.1",
+    "ciudad": "Bogota"
+  }
+]
