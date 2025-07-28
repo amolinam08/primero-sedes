@@ -28,5 +28,10 @@
       "ubicacion": "Local",
       "ip": "127.0.0.1",
       "ciudad": "Local"
+  },
+  {
+    "ubicacion": "Test",
+    "ip": "192.168.20.25",
+    "ciudad": "Test"
   }
 ]
