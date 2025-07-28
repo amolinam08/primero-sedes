@@ -1,37 +1,50 @@
 [
   {
-    "ubicacion": "Primero Santafé",
+    "ciudad": "Bogota",
     "ip": "172.16.1.1",
-    "ciudad": "Bogota"
+    "ubicacion": "Primero Santafé",
+    "network_prefix": "172.16.1"
   },
   {
-    "ubicacion": "Primero Fiesta Suba",
+    "ciudad": "Bogota",
     "ip": "172.16.2.1",
-    "ciudad": "Bogota"
+    "ubicacion": "Primero Fiesta Suba",
+    "network_prefix": "172.16.2"
   },
   {
-    "ubicacion": "Primero Punto 72",
+    "ciudad": "Bogota",
     "ip": "172.16.3.1",
-    "ciudad": "Bogota"
+    "ubicacion": "Primero Punto 72",
+    "network_prefix": "172.16.3"
   },
   {
-    "ubicacion": "Primero Terreros",
+    "ciudad": "Bogota",
     "ip": "172.16.4.1",
-    "ciudad": "Bogota"
+    "ubicacion": "Primero Terreros",
+    "network_prefix": "172.16.4"
   },
   {
-    "ubicacion": "Calle 127",
+    "ciudad": "Bogota",
     "ip": "192.168.103.32",
-    "ciudad": "Bogota"
+    "ubicacion": "Calle 127",
+    "network_prefix": "192.168.103"
   },
   {
-      "ubicacion": "Local",
-      "ip": "127.0.0.1",
-      "ciudad": "Local"
+    "ciudad": "Local",
+    "ip": "127.0.0.1",
+    "ubicacion": "Local",
+    "network_prefix": "127.0.0"
   },
   {
-    "ubicacion": "Test",
+    "ciudad": "Test",
     "ip": "192.168.20.25",
-    "ciudad": "Test"
+    "ubicacion": "Test",
+    "network_prefix": "192.168.20"
+  },
+  {
+    "ciudad": "Bogota",
+    "ip": "192.168.103.32",
+    "ubicacion": "Recordar Guest",
+    "network_prefix": "192.168.80"
   }
 ]
