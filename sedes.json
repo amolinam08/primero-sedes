@@ -3,48 +3,35 @@
     "ciudad": "Bogota",
     "ip": "172.16.1.1",
     "ubicacion": "Primero Santafé",
-    "network_prefix": "172.16.1"
   },
   {
     "ciudad": "Bogota",
     "ip": "172.16.2.1",
     "ubicacion": "Primero Fiesta Suba",
-    "network_prefix": "172.16.2"
   },
   {
     "ciudad": "Bogota",
     "ip": "172.16.3.1",
     "ubicacion": "Primero Punto 72",
-    "network_prefix": "172.16.3"
   },
   {
     "ciudad": "Bogota",
     "ip": "172.16.4.1",
     "ubicacion": "Primero Terreros",
-    "network_prefix": "172.16.4"
   },
   {
     "ciudad": "Bogota",
     "ip": "192.168.103.32",
     "ubicacion": "Calle 127",
-    "network_prefix": "192.168.103"
   },
   {
     "ciudad": "Local",
     "ip": "127.0.0.1",
     "ubicacion": "Local",
-    "network_prefix": "127.0.0"
   },
   {
     "ciudad": "Test",
     "ip": "192.168.20.25",
     "ubicacion": "Test",
-    "network_prefix": "192.168.20"
-  },
-  {
-    "ciudad": "Bogota",
-    "ip": "192.168.103.32",
-    "ubicacion": "Recordar Guest",
-    "network_prefix": "192.168.80"
   }
 ]
