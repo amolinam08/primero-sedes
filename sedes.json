@@ -1,23 +1,28 @@
 [
   {
     "Ciudad": "Bogota",
-    "ip": "172.16.1.1",
+    "ip": "172.16.1.47",
     "ubicacion": "Primero Santafé",
   },
   {
     "Ciudad": "Bogota",
-    "ip": "172.16.2.1",
+    "ip": "172.16.2.29",
     "ubicacion": "Primero Fiesta Suba",
   },
   {
     "Ciudad": "Bogota",
-    "ip": "172.16.3.1",
+    "ip": "172.16.3.87",
     "ubicacion": "Primero Punto 72",
   },
   {
     "Ciudad": "Bogota",
-    "ip": "172.16.4.1",
+    "ip": "172.16.4.13",
     "ubicacion": "Primero Terreros",
+  },
+  {
+    "Ciudad": "Bogota",
+    "ip": "172.16.5.44",
+    "ubicacion": "Primero Trebolis",
   },
   {
     "Ciudad": "Bogota",
