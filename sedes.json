@@ -33,10 +33,5 @@
     "Ciudad": "Local",
     "ip": "127.0.0.1",
     "ubicacion": "Local",
-  },
-  {
-    "Ciudad": "Test",
-    "ip": "192.168.20.25",
-    "ubicacion": "Test",
   }
 ]
