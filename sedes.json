@@ -21,7 +21,7 @@
   },
   {
     "Ciudad": "Bogota",
-    "ip": "172.16.5.44",
+    "ip": "172.16.5.27",
     "ubicacion": "Primero Trebolis",
   },
   {
@@ -33,5 +33,10 @@
     "Ciudad": "Local",
     "ip": "127.0.0.1",
     "ubicacion": "Local",
+  }, 
+  {
+    "Ciudad": "Bogota",
+    "ip": "172.16.6.17",
+    "ubicacion": "Primero Ensueño",
   }
 ]
