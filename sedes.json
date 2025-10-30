@@ -1,42 +1,42 @@
 [
   {
-    "Ciudad": "Bogota",
+    "ciudad": "bogota",
     "ip": "172.16.1.47",
-    "ubicacion": "Primero Santafé",
+    "ubicacion": "Primero Santafé"
   },
   {
-    "Ciudad": "Bogota",
+    "ciudad": "bogota",
     "ip": "172.16.2.29",
-    "ubicacion": "Primero Fiesta Suba",
+    "ubicacion": "Primero Fiesta Suba"
   },
   {
-    "Ciudad": "Bogota",
+    "ciudad": "bogota",
     "ip": "172.16.3.87",
-    "ubicacion": "Primero Punto 72",
+    "ubicacion": "Primero Punto 72"
   },
   {
-    "Ciudad": "Bogota",
+    "ciudad": "bogota",
     "ip": "172.16.4.13",
-    "ubicacion": "Primero Terreros",
+    "ubicacion": "Primero Terreros"
   },
   {
-    "Ciudad": "Bogota",
+    "ciudad": "bogota",
     "ip": "172.16.5.27",
-    "ubicacion": "Primero Trebolis",
+    "ubicacion": "Primero Trebolis"
   },
   {
-    "Ciudad": "Bogota",
+    "ciudad": "bogota",
     "ip": "192.168.103.32",
-    "ubicacion": "Calle 127",
+    "ubicacion": "Calle 127"
   },
   {
-    "Ciudad": "Local",
+    "ciudad": "local",
     "ip": "127.0.0.1",
-    "ubicacion": "Local",
-  }, 
+    "ubicacion": "Local"
+  },
   {
-    "Ciudad": "Bogota",
+    "ciudad": "bogota",
     "ip": "172.16.6.17",
-    "ubicacion": "Primero Ensueño",
+    "ubicacion": "Primero Ensueño"
   }
 ]
