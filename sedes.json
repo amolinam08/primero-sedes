@@ -1,12 +1,12 @@
 [
   {
     "ciudad": "bogota",
-    "ip": "172.16.1.47",
+    "ip": "172.16.1.24",
     "ubicacion": "Primero Santafé"
   },
   {
     "ciudad": "bogota",
-    "ip": "172.16.2.29",
+    "ip": "172.16.2.208",
     "ubicacion": "Primero Fiesta Suba"
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "ciudad": "bogota",
-    "ip": "172.16.4.13",
+    "ip": "172.16.4.166",
     "ubicacion": "Primero Terreros"
   },
   {
     "ciudad": "bogota",
-    "ip": "172.16.5.27",
+    "ip": "172.16.5.38",
     "ubicacion": "Primero Trebolis"
   },
   {
@@ -36,7 +36,17 @@
   },
   {
     "ciudad": "bogota",
-    "ip": "172.16.6.17",
+    "ip": "172.16.6.194",
     "ubicacion": "Primero Ensueño"
+  },
+  {
+    "ciudad": "bogota",
+    "ip": "172.16.7.18",
+    "ubicacion": "Primero Chapinero"
+  },
+  {
+    "ciudad": "bogota",
+    "ip": "172.16.8.23",
+    "ubicacion": "Primero Chia"
   }
 ]
