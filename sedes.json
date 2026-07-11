@@ -49,4 +49,11 @@
     "ip": "172.16.8.23",
     "ubicacion": "Primero Chia"
   }
+  },
+  {
+    "ciudad": "bogota",
+    "ip": "172.16.9.18",
+    "ubicacion": "Primero Plaza de las Americas"
+  }
+  
 ]
