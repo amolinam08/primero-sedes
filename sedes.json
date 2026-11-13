@@ -36,22 +36,22 @@
   },
   {
     "ciudad": "bogota",
-    "ip": "172.16.6.194",
+    "ip": "10.206.20.41",
     "ubicacion": "Primero Ensueño"
   },
   {
     "ciudad": "bogota",
-    "ip": "172.16.7.18",
+    "ip": "10.207.20.13",
     "ubicacion": "Primero Chapinero"
   },
   {
     "ciudad": "bogota",
-    "ip": "172.16.8.23",
+    "ip": "10.208.20.26",
     "ubicacion": "Primero Chia" 
   },
   {
     "ciudad": "bogota",
-    "ip": "172.16.9.18",
+    "ip": "10.209.20.15",
     "ubicacion": "Primero Plaza de las Americas"
   }
   
